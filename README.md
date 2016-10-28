@@ -1,5 +1,5 @@
 # youtoo
-Search youtube for a video and downloads it
-Requires pytube
-To use 
-python main.py 1 search item
+search youtube for a video and download it
+requires pytube
+to use 
+python main.py1 search item
